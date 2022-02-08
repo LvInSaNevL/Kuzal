@@ -1,0 +1,8 @@
+<content>
+    <div id="">hello, world!</div>
+</content>
+
+<style>
+    background-color: var();
+    font-size: small
+</style>

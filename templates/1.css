@@ -1,0 +1,21 @@
+kuzal {
+    background-color: red;
+    width: 100%;
+    display: block;
+}
+
+:root {
+    --primary-color-1: red;
+    --primary-color-2: yellow;
+    --primary-color-3: green;
+}
+
+#header_body_text {
+    background-color: var(--primary-color-1);
+    font-size: small;
+}
+
+#body_1_body_text {
+    background-color: var(--primary-color-2);
+    font-size: large;
+}

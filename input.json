@@ -1,0 +1,23 @@
+{
+    "template": "1",
+    "header": {
+        "type": "body_text",
+        "content": [
+            "header"
+        ],
+        "style": {
+            "background-color": "primary-color-1",
+            "font-size": "small"
+        }
+    },
+    "body_1": {
+        "type": "body_text",
+        "content": [
+            "body 1"
+        ],
+        "style": {
+            "background-color": "primary-color-2",
+            "font-size": "large"
+        }
+    }
+}
